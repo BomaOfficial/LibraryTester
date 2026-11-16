@@ -1,0 +1,11 @@
+{
+  "id": 23,
+  "studentId": 1007,
+  "isbn": "9780547928227",
+  "bookTitle": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "loanDate": "2026-11-11",
+  "dueDate": "2026-12-09",
+  "returnDate": null,
+  "status": "OnLoan"
+}

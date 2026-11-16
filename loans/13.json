@@ -1,0 +1,11 @@
+{
+  "id": 13,
+  "studentId": 1003,
+  "isbn": "9780201835953",
+  "bookTitle": "The Mythical Man-Month",
+  "author": "Frederick P. Brooks Jr.",
+  "loanDate": "2026-10-20",
+  "dueDate": "2026-11-17",
+  "returnDate": null,
+  "status": "OnLoan"
+}

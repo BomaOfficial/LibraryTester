@@ -1,0 +1,11 @@
+{
+  "id": 12,
+  "studentId": 1003,
+  "isbn": "9780321125217",
+  "bookTitle": "Domain-Driven Design",
+  "author": "Eric Evans",
+  "loanDate": "2026-10-20",
+  "dueDate": "2026-11-17",
+  "returnDate": null,
+  "status": "OnLoan"
+}

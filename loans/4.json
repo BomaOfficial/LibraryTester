@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "studentId": 1001,
+  "isbn": "9781449373320",
+  "bookTitle": "Designing Data-Intensive Applications",
+  "author": "Martin Kleppmann",
+  "loanDate": "2026-11-03",
+  "dueDate": "2026-12-01",
+  "returnDate": null,
+  "status": "OnLoan"
+}

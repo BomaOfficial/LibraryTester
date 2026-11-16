@@ -1,0 +1,11 @@
+{
+  "id": 17,
+  "studentId": 1004,
+  "isbn": "9780061120084",
+  "bookTitle": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "loanDate": "2026-11-06",
+  "dueDate": "2026-12-04",
+  "returnDate": null,
+  "status": "OnLoan"
+}

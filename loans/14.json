@@ -1,0 +1,11 @@
+{
+  "id": 14,
+  "studentId": 1003,
+  "isbn": "9780262035613",
+  "bookTitle": "Deep Learning",
+  "author": "Ian Goodfellow et al.",
+  "loanDate": "2026-11-05",
+  "dueDate": "2026-12-03",
+  "returnDate": null,
+  "status": "OnLoan"
+}

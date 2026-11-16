@@ -1,0 +1,11 @@
+{
+  "id": 7,
+  "studentId": 1002,
+  "isbn": "9780415908085",
+  "bookTitle": "Teaching to Transgress",
+  "author": "bell hooks",
+  "loanDate": "2026-10-13",
+  "dueDate": "2026-11-10",
+  "returnDate": "2026-11-09",
+  "status": "Returned"
+}

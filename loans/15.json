@@ -1,0 +1,11 @@
+{
+  "id": 15,
+  "studentId": 1003,
+  "isbn": "9780132350884",
+  "bookTitle": "Clean Code",
+  "author": "Robert C. Martin",
+  "loanDate": "2026-11-14",
+  "dueDate": "2026-12-12",
+  "returnDate": null,
+  "status": "OnLoan"
+}

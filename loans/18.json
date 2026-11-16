@@ -1,0 +1,11 @@
+{
+  "id": 18,
+  "studentId": 1005,
+  "isbn": "9780451524935",
+  "bookTitle": "1984",
+  "author": "George Orwell",
+  "loanDate": "2026-10-01",
+  "dueDate": "2026-10-29",
+  "returnDate": null,
+  "status": "Overdue"
+}

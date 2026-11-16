@@ -1,0 +1,11 @@
+{
+  "id": 10,
+  "studentId": 1003,
+  "isbn": "9780262033848",
+  "bookTitle": "Introduction to Algorithms",
+  "author": "Thomas H. Cormen et al.",
+  "loanDate": "2026-09-15",
+  "dueDate": "2026-10-13",
+  "returnDate": null,
+  "status": "Overdue"
+}

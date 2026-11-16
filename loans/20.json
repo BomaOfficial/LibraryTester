@@ -1,0 +1,11 @@
+{
+  "id": 20,
+  "studentId": 1006,
+  "isbn": "9780399590504",
+  "bookTitle": "Educated",
+  "author": "Tara Westover",
+  "loanDate": "2026-10-27",
+  "dueDate": "2026-11-24",
+  "returnDate": null,
+  "status": "OnLoan"
+}

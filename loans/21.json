@@ -1,0 +1,11 @@
+{
+  "id": 21,
+  "studentId": 1006,
+  "isbn": "9780735211292",
+  "bookTitle": "Atomic Habits",
+  "author": "James Clear",
+  "loanDate": "2026-11-09",
+  "dueDate": "2026-12-07",
+  "returnDate": null,
+  "status": "OnLoan"
+}

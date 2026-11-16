@@ -1,0 +1,11 @@
+{
+  "id": 11,
+  "studentId": 1003,
+  "isbn": "9780735619678",
+  "bookTitle": "Code Complete",
+  "author": "Steve McConnell",
+  "loanDate": "2026-09-15",
+  "dueDate": "2026-10-13",
+  "returnDate": "2026-10-12",
+  "status": "Returned"
+}

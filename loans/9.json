@@ -1,0 +1,11 @@
+{
+  "id": 9,
+  "studentId": 1002,
+  "isbn": "9780374533557",
+  "bookTitle": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "loanDate": "2026-11-12",
+  "dueDate": "2026-12-10",
+  "returnDate": null,
+  "status": "OnLoan"
+}

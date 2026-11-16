@@ -1,0 +1,11 @@
+{
+  "id": 24,
+  "studentId": 1008,
+  "isbn": "9780140328721",
+  "bookTitle": "Fantastic Mr Fox",
+  "author": "Roald Dahl",
+  "loanDate": "2026-10-10",
+  "dueDate": "2026-11-07",
+  "returnDate": null,
+  "status": "Overdue"
+}

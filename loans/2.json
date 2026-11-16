@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "studentId": 1001,
+  "isbn": "9780135957059",
+  "bookTitle": "The Pragmatic Programmer",
+  "author": "David Thomas, Andrew Hunt",
+  "loanDate": "2026-10-05",
+  "dueDate": "2026-11-02",
+  "returnDate": null,
+  "status": "Overdue"
+}

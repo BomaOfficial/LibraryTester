@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "studentId": 1001,
+  "isbn": "9780201633610",
+  "bookTitle": "Design Patterns",
+  "author": "Erich Gamma et al.",
+  "loanDate": "2026-10-28",
+  "dueDate": "2026-11-25",
+  "returnDate": null,
+  "status": "OnLoan"
+}

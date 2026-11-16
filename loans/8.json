@@ -1,0 +1,11 @@
+{
+  "id": 8,
+  "studentId": 1002,
+  "isbn": "9780345472328",
+  "bookTitle": "Mindset",
+  "author": "Carol S. Dweck",
+  "loanDate": "2026-11-02",
+  "dueDate": "2026-11-30",
+  "returnDate": null,
+  "status": "OnLoan"
+}

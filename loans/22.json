@@ -1,0 +1,11 @@
+{
+  "id": 22,
+  "studentId": 1007,
+  "isbn": "9781524763138",
+  "bookTitle": "Becoming",
+  "author": "Michelle Obama",
+  "loanDate": "2026-09-30",
+  "dueDate": "2026-10-28",
+  "returnDate": "2026-10-30",
+  "status": "Returned"
+}
