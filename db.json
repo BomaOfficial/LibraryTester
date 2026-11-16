@@ -1,0 +1,7 @@
+{
+  "loans": [
+    { "id": 1, "studentId": 1001, "isbn": "9780547928227", "bookTitle": "The Hobbit", "loanDate": "2026-10-01", "dueDate": "2026-11-01", "status": "Overdue" },
+    { "id": 2, "studentId": 1001, "isbn": "9780262035613", "bookTitle": "Deep Learning", "loanDate": "2026-11-02", "dueDate": "2026-11-30", "status": "OnLoan" },
+    { "id": 3, "studentId": 1002, "isbn": "9780140328721", "bookTitle": "Fantastic Mr Fox", "loanDate": "2026-09-15", "dueDate": "2026-10-15", "status": "Returned" }
+  ]
+}
