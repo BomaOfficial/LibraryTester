@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "studentId": 1001,
+    "isbn": "9780132350884",
+    "bookTitle": "Clean Code",
+    "author": "Robert C. Martin",
+    "loanDate": "2026-09-22",
+    "dueDate": "2026-10-20",
+    "returnDate": "2026-10-18",
+    "status": "Returned"
+  },
+  {
+    "id": 2,
+    "studentId": 1001,
+    "isbn": "9780135957059",
+    "bookTitle": "The Pragmatic Programmer",
+    "author": "David Thomas, Andrew Hunt",
+    "loanDate": "2026-10-05",
+    "dueDate": "2026-11-02",
+    "returnDate": null,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "studentId": 1001,
+    "isbn": "9780201633610",
+    "bookTitle": "Design Patterns",
+    "author": "Erich Gamma et al.",
+    "loanDate": "2026-10-28",
+    "dueDate": "2026-11-25",
+    "returnDate": null,
+    "status": "OnLoan"
+  },
+  {
+    "id": 4,
+    "studentId": 1001,
+    "isbn": "9781449373320",
+    "bookTitle": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "loanDate": "2026-11-03",
+    "dueDate": "2026-12-01",
+    "returnDate": null,
+    "status": "OnLoan"
+  },
+  {
+    "id": 5,
+    "studentId": 1001,
+    "isbn": "9780134757599",
+    "bookTitle": "Refactoring",
+    "author": "Martin Fowler",
+    "loanDate": "2026-11-10",
+    "dueDate": "2026-12-08",
+    "returnDate": null,
+    "status": "OnLoan"
+  }
+]

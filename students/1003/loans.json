@@ -1,0 +1,68 @@
+[
+  {
+    "id": 10,
+    "studentId": 1003,
+    "isbn": "9780262033848",
+    "bookTitle": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen et al.",
+    "loanDate": "2026-09-15",
+    "dueDate": "2026-10-13",
+    "returnDate": null,
+    "status": "Overdue"
+  },
+  {
+    "id": 11,
+    "studentId": 1003,
+    "isbn": "9780735619678",
+    "bookTitle": "Code Complete",
+    "author": "Steve McConnell",
+    "loanDate": "2026-09-15",
+    "dueDate": "2026-10-13",
+    "returnDate": "2026-10-12",
+    "status": "Returned"
+  },
+  {
+    "id": 12,
+    "studentId": 1003,
+    "isbn": "9780321125217",
+    "bookTitle": "Domain-Driven Design",
+    "author": "Eric Evans",
+    "loanDate": "2026-10-20",
+    "dueDate": "2026-11-17",
+    "returnDate": null,
+    "status": "OnLoan"
+  },
+  {
+    "id": 13,
+    "studentId": 1003,
+    "isbn": "9780201835953",
+    "bookTitle": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "loanDate": "2026-10-20",
+    "dueDate": "2026-11-17",
+    "returnDate": null,
+    "status": "OnLoan"
+  },
+  {
+    "id": 14,
+    "studentId": 1003,
+    "isbn": "9780262035613",
+    "bookTitle": "Deep Learning",
+    "author": "Ian Goodfellow et al.",
+    "loanDate": "2026-11-05",
+    "dueDate": "2026-12-03",
+    "returnDate": null,
+    "status": "OnLoan"
+  },
+  {
+    "id": 15,
+    "studentId": 1003,
+    "isbn": "9780132350884",
+    "bookTitle": "Clean Code",
+    "author": "Robert C. Martin",
+    "loanDate": "2026-11-14",
+    "dueDate": "2026-12-12",
+    "returnDate": null,
+    "status": "OnLoan"
+  }
+]

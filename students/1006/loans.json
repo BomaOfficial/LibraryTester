@@ -1,0 +1,35 @@
+[
+  {
+    "id": 19,
+    "studentId": 1006,
+    "isbn": "9780062316097",
+    "bookTitle": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "loanDate": "2026-10-15",
+    "dueDate": "2026-11-12",
+    "returnDate": "2026-11-11",
+    "status": "Returned"
+  },
+  {
+    "id": 20,
+    "studentId": 1006,
+    "isbn": "9780399590504",
+    "bookTitle": "Educated",
+    "author": "Tara Westover",
+    "loanDate": "2026-10-27",
+    "dueDate": "2026-11-24",
+    "returnDate": null,
+    "status": "OnLoan"
+  },
+  {
+    "id": 21,
+    "studentId": 1006,
+    "isbn": "9780735211292",
+    "bookTitle": "Atomic Habits",
+    "author": "James Clear",
+    "loanDate": "2026-11-09",
+    "dueDate": "2026-12-07",
+    "returnDate": null,
+    "status": "OnLoan"
+  }
+]

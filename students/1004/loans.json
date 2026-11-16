@@ -1,0 +1,24 @@
+[
+  {
+    "id": 16,
+    "studentId": 1004,
+    "isbn": "9780141439518",
+    "bookTitle": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "loanDate": "2026-10-08",
+    "dueDate": "2026-11-05",
+    "returnDate": "2026-11-04",
+    "status": "Returned"
+  },
+  {
+    "id": 17,
+    "studentId": 1004,
+    "isbn": "9780061120084",
+    "bookTitle": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "loanDate": "2026-11-06",
+    "dueDate": "2026-12-04",
+    "returnDate": null,
+    "status": "OnLoan"
+  }
+]
